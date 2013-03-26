@@ -1,2 +1,2 @@
-java7features
+Learning Java 7 features through the code.
 =============
