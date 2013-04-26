@@ -1,6 +1,6 @@
-package com.github.maxymshg.java7features.stringsinswitch;
+package com.github.maxymshg.java7features.stringsinswitch.java7;
 
-public class StringsInSwitchJava7 {
+public class StringsInSwitch {
 
   enum Planet {
     MERCURY,
